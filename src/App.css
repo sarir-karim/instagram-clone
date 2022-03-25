@@ -13,3 +13,10 @@
   padding: 20px; 
   border: 1px soild lightgray;
 }
+
+.app__signup{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+}
